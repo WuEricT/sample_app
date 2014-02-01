@@ -20,6 +20,7 @@ group :test do
   gem 'rb-notifu'
   gem 'win32console'
   gem 'wdm'
+  gem 'factory_girl_rails', '4.2.1'
 
 end
 
